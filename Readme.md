@@ -62,19 +62,16 @@ This roadmap is designed to help you master CSS by providing a comprehensive pla
 | 29 | [Responsive Web Design Basics](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design) |
 | 30 | [Optimizing CSS for Performance](https://web.dev/extract-critical-css/), [CSS and SEO](https://developers.google.com/search/docs/guides/css-content-visibility) |
 
-# 10 CSS Project Ideas
+# CSS Project Ideas
 
 These project ideas are designed to help you master CSS and improve your skills. Feel free to adapt and expand upon them based on your skill level and interests.
 
 | Project Ideas |
 |---|
-| Personal Blog |
-| E-commerce Product Grid |
-| Pricing Table |
-| Image Gallery |
-| Animated Landing Page |
-| Social Media Profile |
-| Responsive Navigation Menu |
-| CSS Art |
-| Interactive Forms |
-| CSS Game |
+| 1 | [Personal Blog](https://youtu.be/Aj7HLsJenVg)
+| 2 | [E-commerce Product Grid](https://youtu.be/eXEJivFJpSU)
+| 3 | [Image Gallery](https://youtu.be/Trw_9lisYVY)
+| 4 | [Animated Landing Page](https://youtu.be/-r2axaJUaP8)
+| 5 | [Social Media Profile](https://youtu.be/RrWUAmh93r4)
+| 6 | [Responsive Navigation Menu](https://youtu.be/oLgtucwjVII)
+| 7 | [Interactive Forms](https://youtu.be/G8mYjB_sT0o)
