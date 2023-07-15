@@ -66,8 +66,8 @@ This roadmap is designed to help you master CSS by providing a comprehensive pla
 
 These project ideas are designed to help you master CSS and improve your skills. Feel free to adapt and expand upon them based on your skill level and interests.
 
-| Project Ideas |
-|---|
+| SL | Project Ideas |
+|---|---|
 | 1 | [Personal Blog](https://youtu.be/Aj7HLsJenVg)
 | 2 | [E-commerce Product Grid](https://youtu.be/eXEJivFJpSU)
 | 3 | [Image Gallery](https://youtu.be/Trw_9lisYVY)
