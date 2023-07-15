@@ -3,114 +3,78 @@
 This roadmap is designed to help you master CSS by providing a comprehensive plan spanning a longer duration. Each day focuses on a specific CSS concept or technique. Feel free to adjust the timeline according to your learning pace and dive deeper into specific topics as needed.
 
 ## Week 1: Building a Strong Foundation
-### Day 1: Introduction to CSS
-- [MDN CSS Introduction](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started)
 
-### Day 2: Box Model and Layout
-- [CSS Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model)
-- [CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
-
-### Day 3: Responsive Design
-- [Responsive Web Design Basics](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
-
-### Day 4: Typography and Fonts
-- [CSS Typography](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals)
-
-### Day 5: CSS Transitions and Animations
-- [CSS Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
-- [CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+| Day | Topic |
+|---|---|
+| 1 | [Introduction to CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started) |
+| 2 | [Box Model and Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model), [CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout) |
+| 3 | [Responsive Design Basics](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design) |
+| 4 | [Typography and Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals) |
+| 5 | [CSS Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions), [CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations) |
 
 ## Week 2: Advanced CSS Techniques
-### Day 6: CSS Positioning and Layout Techniques
-- [CSS Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning)
-- [CSS Float](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats)
 
-### Day 7: CSS Grid
-- [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
-
-### Day 8: CSS Flexbox
-- [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
-
-### Day 9: CSS Selectors and Specificity
-- [CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
-- [CSS Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
-
-### Day 10: CSS Pseudo-classes and Pseudo-elements
-- [CSS Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
-- [CSS Pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
+| Day | Topic |
+|---|---|
+| 6 | [CSS Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning), [CSS Float](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Floats) |
+| 7 | [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) |
+| 8 | [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) |
+| 9 | [CSS Selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors), [CSS Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity) |
+| 10 | [CSS Pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes), [CSS Pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements) |
 
 ## Week 3: CSS Architecture and Optimization
-### Day 11: CSS Methodologies (BEM, SMACSS, etc.)
-- [BEM Methodology](http://getbem.com/introduction/)
-- [SMACSS](https://smacss.com/)
 
-### Day 12: CSS Architecture and Scalability
-- [Scalable and Modular Architecture for CSS (SMACSS)](https://smacss.com/)
-
-### Day 13: CSS Performance Optimization
-- [CSS Optimization Tips](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Optimizing_CSS)
-
-### Day 14: CSS Preprocessors (Sass, Less)
-- [Sass Basics](https://sass-lang.com/guide)
-- [Less CSS](http://lesscss.org/)
-
-### Day 15: CSS Postprocessors (Autoprefixer, PostCSS)
-- [Autoprefixer](https://autoprefixer.github.io/)
-- [PostCSS](https://postcss.org/)
+| Day | Topic |
+|---|---|
+| 11 | [CSS Methodologies (BEM, SMACSS, etc.)](http://getbem.com/introduction/), [SMACSS](https://smacss.com/) |
+| 12 | [CSS Architecture and Scalability](https://smacss.com/) |
+| 13 | [CSS Performance Optimization](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Optimizing_CSS) |
+| 14 | [Sass Basics](https://sass-lang.com/guide), [Less CSS](http://lesscss.org/) |
+| 15 | [Autoprefixer](https://autoprefixer.github.io/), [PostCSS](https://postcss.org/) |
 
 ## Week 4: CSS Frameworks and Tooling
-### Day 16: CSS Frameworks (Bootstrap, Tailwind CSS)
-- [Bootstrap Documentation](https://getbootstrap.com/docs/)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 
-### Day 17: CSS Custom Properties (CSS Variables)
-- [CSS Custom Properties (Variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties)
-
-### Day 18: CSS-in-JS and CSS Modules
-- [CSS-in-JS](https://cssinjs.org/)
-- [CSS Modules](https://css-modules.github.io/css-modules/)
-
-### Day 19: CSS Reset and Normalize
-- [CSS Resets and Normalization](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
-
-### Day 20: CSS Linting and Code Quality Tools
-- [Stylelint](https://stylelint.io/)
-- [CSSLint](https://csslint.net/)
+| Day | Topic |
+|---|---|
+| 16 | [Bootstrap Documentation](https://getbootstrap.com/docs/), [Tailwind CSS Documentation](https://tailwindcss.com/docs) |
+| 17 | [CSS Custom Properties (Variables)](https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties) |
+| 18 | [CSS-in-JS](https://cssinjs.org/), [CSS Modules](https://css-modules.github.io/css-modules/) |
+| 19 | [CSS Resets and Normalization](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance) |
+| 20 | [Stylelint](https://stylelint.io/), [CSSLint](https://csslint.net/) |
 
 ## Week 5: Advanced CSS Concepts
-### Day 21: Advanced CSS Transforms and Animations
-- [CSS Transforms](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transforms/Using_CSS_transforms)
-- [CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
 
-### Day 22: Advanced CSS Filters and Blending
-- [CSS Filters](https://developer.mozilla.org/en-US/docs/Web/CSS/filter)
-- [CSS Blending](https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode)
-
-### Day 23: CSS Shapes and Exclusions
-- [CSS Shapes](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Shapes/Using_CSS_shapes)
-- [CSS Exclusions](https://developer.mozilla.org/en-US/docs/Web/CSS/Exclusions)
-
-### Day 24: CSS Feature Queries and Browser Compatibility
-- [CSS Feature Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/@supports)
-- [Can I Use](https://caniuse.com/)
-
-### Day 25: CSS Layouts and Grid Systems
-- [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
+| Day | Topic |
+|---|---|
+| 21 | [CSS Transforms](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transforms/Using_CSS_transforms), [CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations) |
+| 22 | [CSS Filters](https://developer.mozilla.org/en-US/docs/Web/CSS/filter), [CSS Blending](https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode) |
+| 23 | [CSS Shapes](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Shapes/Using_CSS_shapes), [CSS Exclusions](https://developer.mozilla.org/en-US/docs/Web/CSS/Exclusions) |
+| 24 | [CSS Feature Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/@supports), [Can I Use](https://caniuse.com/) |
+| 25 | [CSS Grid Layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) |
 
 ## Week 6: CSS in Real-World Applications
-### Day 26: CSS for Print and PDFs
-- [CSS for Print](https://developer.mozilla.org/en-US/docs/Web/Guide/Printing)
-- [CSS for PDFs](https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/)
 
-### Day 27: CSS for Accessibility
-- [CSS Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript)
+| Day | Topic |
+|---|---|
+| 26 | [CSS for Print](https://developer.mozilla.org/en-US/docs/Web/Guide/Printing), [CSS for PDFs](https://www.smashingmagazine.com/2015/01/designing-for-print-with-css/) |
+| 27 | [CSS Accessibility](https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript) |
+| 28 | [CSS and Internationalization](https://developer.mozilla.org/en-US/docs/Web/Localization/CSS_and_Internationalization) |
+| 29 | [Responsive Web Design Basics](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design) |
+| 30 | [Optimizing CSS for Performance](https://web.dev/extract-critical-css/), [CSS and SEO](https://developers.google.com/search/docs/guides/css-content-visibility) |
 
-### Day 28: CSS for Internationalization
-- [CSS and Internationalization](https://developer.mozilla.org/en-US/docs/Web/Localization/CSS_and_Internationalization)
+# 10 CSS Project Ideas
 
-### Day 29: CSS for Mobile and Responsive Web Design
-- [Responsive Web Design Basics](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
+These project ideas are designed to help you master CSS and improve your skills. Feel free to adapt and expand upon them based on your skill level and interests.
 
-### Day 30: CSS for Performance and SEO
-- [Optimizing CSS for Performance](https://web.dev/extract-critical-css/)
-- [CSS and SEO](https://developers.google.com/search/docs/guides/css-content-visibility)
+| Project Ideas |
+|---|
+| Personal Blog |
+| E-commerce Product Grid |
+| Pricing Table |
+| Image Gallery |
+| Animated Landing Page |
+| Social Media Profile |
+| Responsive Navigation Menu |
+| CSS Art |
+| Interactive Forms |
+| CSS Game |
