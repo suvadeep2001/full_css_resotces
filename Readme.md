@@ -7,7 +7,7 @@ This roadmap is designed to help you master CSS by providing a comprehensive pla
 | Day | Topic |
 |---|---|
 | 1 | [Introduction to CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started) |
-| 2 | [Box Model and Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model), [CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout) |
+| 2 | [Box Model and Layout](https://youtu.be/rIO5326FgPE), [CSS Layout](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout) |
 | 3 | [Responsive Design Basics](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design) |
 | 4 | [Typography and Fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Fundamentals) |
 | 5 | [CSS Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions), [CSS Animations](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations) |
